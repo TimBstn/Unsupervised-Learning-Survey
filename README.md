@@ -1,2 +1,8 @@
-# Unsupervised-Learning-Survey
-Analyzing survey data of smartphone and app usage to create insightful customer groups and targeting strategies using Principal Component Analysis (PCA) and unsupervised learning techniques in python 
+# Working with survey data - an Unsupervised Learning application
+
+We are given survey data asking people about their usage of phones and apps (see Excel and pdf for explanation). We want to come up with strategies to target specific users grouping them by purchase behavior, affinity to technology and personality traits.
+
+## Techniques
+
+We used several techniques to group the customers, p.e. PCA, clustering, and plotting.
+
